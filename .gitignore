@@ -11,7 +11,6 @@ __pycache__/
 /dist/
 /build/
 # Archivos temporales de PyInstaller
-*.spec
 *.manifest
 *.toc
 
