@@ -1,6 +1,7 @@
 # PES 6 Registry Installer
 
 | ![image1](https://github.com/user-attachments/assets/9fdfe5be-558d-4800-89d1-c8256a0414c0) | ![image2](https://github.com/user-attachments/assets/87996aa9-445d-44bf-8f3b-16631d14ce90) |
+|:--:|:--:|
 
 
 *A lightweight utility to automate PES 6 registry configuration on Windows systems (x86/x64). No manual .reg files required!*
