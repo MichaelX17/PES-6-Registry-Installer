@@ -1,0 +1,62 @@
+### 🐍 Python ###
+# Bytecode y caché
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyd
+*.pyo
+
+### 📦 PyInstaller ###
+# Directorios de compilación
+/dist/
+/build/
+# Archivos temporales de PyInstaller
+*.spec
+*.manifest
+*.toc
+
+### 📝 Logs ###
+*.log
+registry_error.log
+debug_output.txt
+
+### 🖥️ Sistemas Operativos ###
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.exe.stackdump
+*.user
+*.suo
+*.ncb
+*.sdf
+
+### 🛠 IDEs y Editores ###
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Otros editores
+*.swp
+*.swo
+*~
+~$*
+
+### 🔄 Archivos temporales ###
+*.tmp
+*.temp
+*~
